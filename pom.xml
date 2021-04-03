@@ -5,12 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>java_3_chat_25122020</artifactId>
+    <artifactId>javaCloudStorage</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>client</module>
         <module>server</module>
+        <module>commands</module>
     </modules>
 
     <properties>
